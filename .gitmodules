@@ -1,0 +1,3 @@
+[submodule "SubModule"]
+	path = SubModule
+	url = https://github.com/anurupsinha/MainApp_SubModule.git
